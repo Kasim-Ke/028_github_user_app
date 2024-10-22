@@ -55,7 +55,7 @@ export const Main = () => {
 
         <div className="lg:w-[730px] lg:h-[444px] md:w-[573px] md:h-[481] w-[327px] h-[517px]  bg-[#1E2A47] rounded-2xl flex flex-col lg:items-end items-center justify-between p-10 ">
           {/*  info    DEKTOP SIZE*/}
-          <div className=" lg:flex justify-between items-start hidden w-full ">
+          <div className=" lg:flex justify-between items-start hidden w-full h-[50px]">
             {/*account img   */}
             <div className="  md:w-[117px] md:h-[117px] w-[70px] h-[70px] bg-white rounded-full md:mr-10"></div>
             <div className="flex justify-between w-[490px]">
