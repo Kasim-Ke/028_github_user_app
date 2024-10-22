@@ -1,8 +1,6 @@
 import sun from "../assets/icon-sun.svg";
 import search from "../assets/icon-search.svg";
 
-import locatio from "../assets/icon-location.svg";
-
 //import account_img from "../assets/icon-website.svg";
 
 export const Main = () => {
