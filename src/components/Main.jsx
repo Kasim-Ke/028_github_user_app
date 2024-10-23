@@ -1,7 +1,5 @@
 import axios from "axios";
 
-import sun from "../assets/icon-sun.svg";
-
 import search from "../assets/icon-search.svg";
 
 import website from "../assets/icon-website.svg";
@@ -24,7 +22,7 @@ export const Main = () => {
       })
       .catch((error) => {
         console.error("Error fetching GitHub user data:", error);
-        setError("USer not found");
+        setError("User not found");
       });
   };
 
